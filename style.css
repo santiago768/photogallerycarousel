@@ -1,0 +1,40 @@
+body {
+
+    text-align: center;
+}
+
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+
+
+#apps {
+    background-color: aqua;
+}
+
+#games {
+    background-color: red;
+}
+
+#bot {
+    background-color: yellow;
+}
+
+section {
+    height: 800px;
+}
+#mycarousel{
+    background-color: lightblue;
+}
+#mycarousel img{
+    margin-top: 35px;
+}
+#home{
+    background-color: black;
+}
